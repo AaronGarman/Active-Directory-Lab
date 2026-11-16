@@ -3,4 +3,4 @@ Created an Active Directory domain controller to practice managing users and dev
 
 <br>
 
-<img src='' height='525' width='250' title='' alt='' />
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Domain-IP-Address.png' title='Domain-IP-Address' alt='Domain-IP-Address' />
