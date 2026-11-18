@@ -4,6 +4,8 @@ Created an Active Directory domain controller to practice managing users and dev
 <!-- put pics in own folder? 
 also put description above all?
 do pics as paths over url?
+take dash out of title n alt
+check all pics there
 -->
 
 <br>
@@ -49,3 +51,41 @@ do pics as paths over url?
 <br><br><br>
 
 <img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Create-User.png' title='Create-User' alt='Create-User' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/User-Created.png' title='User-Created' alt='User-Created' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Attribute-Editor.png' title='Attribute-Editor' alt='Attribute-Editor' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Reset-User-Password.png' title='Reset-User-Password' alt='Reset-User-Password' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Create-Group.png' title='Create-Group' alt='Create-Group' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Show-Group-Members.png' title='Show-Group-Members' alt='Show-Group-Members' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Copy-User.png' title='Copy-User' alt='Copy-User' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Unlock-Account.png' title='Unlock-Account' alt='Unlock-Account' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Unlocked-Account.png' title='Unlocked-Account' alt='Unlocked-Account' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Moving-User.png' title='Moving-User' alt='Moving-User' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/User-Moved.png' title='User-Moved' alt='User-Moved' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Confirm-User-Moved.png' title='Confirm-User-Moved' alt='Confirm-User-Moved' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/User-Object-Location.png' title='User-Object-Location' alt='User-Object-Location' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Create-Client-VM.png' title='Create-Client-VM' alt='Create-Client-VM' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Client-DNS-Settings.png' title='Client-DNS-Settings' alt='Client-DNS-Settings' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Client-Find-Domain.png' title='Client-Find-Domain' alt='Client-Find-Domain' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Client-Attempt-Join-Domain.png' title='Client-Attempt-Join-Domain' alt='Client-Attempt-Join-Domain' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Client-Join-Domain.png' title='Client-Join-Domain' alt='Client-Join-Domain' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Ipconfig-Command.png' title='Ipconfig-Command' alt='Ipconfig-Command' />
+
+<img src='https://github.com/AaronGarman/Active-Directory-Lab/blob/main/Ping-Domain-Controller.png' title='Ping-Domain-Controller' alt='Ping-Domain-Controller' />
