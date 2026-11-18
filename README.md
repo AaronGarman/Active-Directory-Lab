@@ -6,6 +6,7 @@ also put description above all?
 do pics as paths over url?
 take dash out of title n alt
 check all pics there
+decide if take any pics out
 -->
 
 <br>
